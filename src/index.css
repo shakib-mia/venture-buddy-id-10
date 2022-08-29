@@ -1,13 +1,103 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+#navbar{
+    border-radius: 20px;
+    height: 976px;
+    margin: 25px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.side-title{
+    font-family: Poppins;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+}
+.side-list{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#6D747A;
+    
+    
+    }
+.side-list:hover{
+
+    color: #283891;
+}
+
+.invest{
+    margin: 25px;
+}
+
+#menu{
+    color:#DEA700;
+}
+
+#alert{
+    background: #FDF8EB;
+    height: 44px;
+    border-radius: 8px;
+    
+}
+
+.gold{
+    color: #DEA700;
+}
+
+.width{
+    width: fit-content;
+}
+
+.gold-border{
+    border-color: #DEA700;
+}
+.card-img-top{
+    width: 300px;
+    height: 140px;
+}
+
+.card{
+    width: 300px;
+    height: 400px;
+}
+
+.container{
+    margin: 0;
+    padding: 0;
+}
+
+.input{
+    
+    border-radius: 20px;
+}
+
+.btn-custom{
+
+background-color: #E9EBF4;
+color: #283891;
+}
+
+.dropdown-toggle:hover{
+    background-color: #18A62B;
+    color: white;
+
+}
+
+.dropdown-item:hover{
+    color: #283891;
+}
+.rounded-image{
+    position: absolute;
+    border-radius: 100%;
+    top: 100px;
+    left: 20px;
+}
+
+.btn-cur{
+    background-color: #18A62B;
+    color: white;
+    padding: 16px 24px;
+    border-radius: 8px;
+
 }
