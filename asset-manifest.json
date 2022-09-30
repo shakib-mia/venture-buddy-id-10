@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/venture-buddy-id-10/static/css/main.0f9b5cd3.css",
-    "main.js": "/venture-buddy-id-10/static/js/main.f2dc4c58.js",
+    "main.css": "/venture-buddy-id-10/static/css/main.09f4e495.css",
+    "main.js": "/venture-buddy-id-10/static/js/main.ba7f92af.js",
     "static/media/ellipse.svg": "/venture-buddy-id-10/static/media/ellipse.568b0ab6f335c650170658be6d8b9455.svg",
     "static/media/Cover.jpg": "/venture-buddy-id-10/static/media/Cover.f3ee558d01800967c28f.jpg",
     "static/media/venturefull.svg": "/venture-buddy-id-10/static/media/venturefull.d57ccc77a7ae02fafe4182f8348a2284.svg",
@@ -20,11 +20,11 @@
     "static/media/bell.svg": "/venture-buddy-id-10/static/media/bell.742b4b5005830e16873c87d081d1d17c.svg",
     "static/media/support.svg": "/venture-buddy-id-10/static/media/support.5a747654c9498e665591c93b19de99d4.svg",
     "static/media/Vector.svg": "/venture-buddy-id-10/static/media/Vector.0dd958c877d1de2ab260e746f1e87108.svg",
-    "main.0f9b5cd3.css.map": "/venture-buddy-id-10/static/css/main.0f9b5cd3.css.map",
-    "main.f2dc4c58.js.map": "/venture-buddy-id-10/static/js/main.f2dc4c58.js.map"
+    "main.09f4e495.css.map": "/venture-buddy-id-10/static/css/main.09f4e495.css.map",
+    "main.ba7f92af.js.map": "/venture-buddy-id-10/static/js/main.ba7f92af.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f9b5cd3.css",
-    "static/js/main.f2dc4c58.js"
+    "static/css/main.09f4e495.css",
+    "static/js/main.ba7f92af.js"
   ]
 }
