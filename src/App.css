@@ -1,0 +1,16 @@
+.app {
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn-small {
+    height: 28px;
+    padding: 4px 8px;
+    margin-right: 8px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    text-transform: uppercase;
+    color: #283891;
+    background: #E9EBF4;
+    border-radius: 4px;
+}
