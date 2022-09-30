@@ -1,5 +1,5 @@
 {
-  "homepage": "http://dheerajhemachandran.github.io/home-page",
+  "homepage": "http://shakib-mia.github.io/home-page",
   "name": "home-page",
   "version": "0.1.0",
   "private": true,
@@ -14,8 +14,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy":"npm rum build",
-    "deploy":"gh-pages -d build",
+    "predeploy": "npm rum build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
