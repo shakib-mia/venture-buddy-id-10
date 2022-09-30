@@ -1,4 +1,5 @@
 import { React, useState } from "react";
+import searchImg from "./../utils/search-image.png";
 
 const Invest = ({ cardlist, bell, mail, search }) => {
   const [hidden, sethidden] = useState(true);
@@ -74,13 +75,17 @@ const Invest = ({ cardlist, bell, mail, search }) => {
           <br /> opportunities.
         </p>
         <div className="bg-light d-flex p-3 rounded mt-4 col-10">
-          <input
-            type="text"
-            className="m-2 input text-center form-control w-25"
-            width="20px"
-            placeholder="Search for interest startups"
-            onChange={search}
-          />
+          <div className="position-relative w-25 m-2">
+            <img src={searchImg} id="searchIcon" alt="" className="img-fluid" />
+            <input
+              type="text"
+              className="input text-center form-control w-100 border-0"
+              id="searchField"
+              width="20px"
+              placeholder="Search for interest startups"
+              onChange={search}
+            />
+          </div>
 
           <select
             class="rounded-pill m-2"

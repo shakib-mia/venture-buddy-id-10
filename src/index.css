@@ -8,6 +8,19 @@
     top: 25px;
 }
 
+#searchIcon {
+    position: absolute;
+    width: 16px;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    left: 16px;
+}
+
+#searchField:focus {
+    box-shadow: none;
+}
+
 .side-title {
     font-family: Poppins;
     letter-spacing: 0em;
@@ -89,15 +102,6 @@ option {
     border-color: #DEA700;
 }
 
-/* .card-img-top {
-    width: 300px;
-    height: 140px;
-}
-
-.card {
-    width: 300px;
-    height: 400px;
-} */
 
 .container {
     margin: 0;
