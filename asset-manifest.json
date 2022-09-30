@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/home-page/static/css/main.0f9b5cd3.css",
+    "main.js": "/home-page/static/js/main.99530fd0.js",
+    "static/media/ellipse.svg": "/home-page/static/media/ellipse.568b0ab6f335c650170658be6d8b9455.svg",
+    "static/media/Cover.jpg": "/home-page/static/media/Cover.f3ee558d01800967c28f.jpg",
+    "static/media/venturefull.svg": "/home-page/static/media/venturefull.d57ccc77a7ae02fafe4182f8348a2284.svg",
+    "static/media/venture1.svg": "/home-page/static/media/venture1.f6fabb88a3e94557d5242725c3cfa63d.svg",
+    "static/media/tools.svg": "/home-page/static/media/tools.cbe16d4421054ada063a9773aa84543e.svg",
+    "static/media/livedeal.svg": "/home-page/static/media/livedeal.6ec5c73058ed721228426eec4e7bb90b.svg",
+    "static/media/myinvestment.svg": "/home-page/static/media/myinvestment.8cc94f32652b587a820354bde98723a6.svg",
+    "static/media/refer.svg": "/home-page/static/media/refer.4d11e0f3ce8d8fdd4f55d4ff7e9e62ae.svg",
+    "static/media/arrowgrp.svg": "/home-page/static/media/arrowgrp.f4679931cc192f731911b43a36334221.svg",
+    "static/media/logout.svg": "/home-page/static/media/logout.582f090691f579eb0fcbcfc34dc5cf42.svg",
+    "static/media/wallet.svg": "/home-page/static/media/wallet.e65a7f331bf4074f13d262b1f32576ee.svg",
+    "static/media/mail.svg": "/home-page/static/media/mail.35a300c2767c8d4d827f4e17502c96c5.svg",
+    "index.html": "/home-page/index.html",
+    "static/media/faq.svg": "/home-page/static/media/faq.aab038487d59553640d95d2ed93bf27e.svg",
+    "static/media/icon.svg": "/home-page/static/media/icon.25aa70f37dd25851180a01bec1cdcc15.svg",
+    "static/media/bell.svg": "/home-page/static/media/bell.742b4b5005830e16873c87d081d1d17c.svg",
+    "static/media/support.svg": "/home-page/static/media/support.5a747654c9498e665591c93b19de99d4.svg",
+    "static/media/Vector.svg": "/home-page/static/media/Vector.0dd958c877d1de2ab260e746f1e87108.svg",
+    "main.0f9b5cd3.css.map": "/home-page/static/css/main.0f9b5cd3.css.map",
+    "main.99530fd0.js.map": "/home-page/static/js/main.99530fd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f9b5cd3.css",
+    "static/js/main.99530fd0.js"
+  ]
+}
